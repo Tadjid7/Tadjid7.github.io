@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emoji Support on Hugo Profile</title>
+    <link>http://localhost:1313/tags/emoji-support/</link>
+    <description>Recent content in Emoji Support on Hugo Profile</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 May 2024 22:53:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/emoji-support/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation d&#39;un VPN</title>
+      <link>http://localhost:1313/projets/emoji-support/</link>
+      <pubDate>Mon, 06 May 2024 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/projets/emoji-support/</guid>
+      <description>Suite à l&amp;rsquo;arrivée d&amp;rsquo;une nouvelle ligue dans le M2L, nous avons besoins de plus d&amp;rsquo;utilisateurs. Mais faute de places dans les bâtiments, il faudra mettre en place un VPN afin que les nouveaux utilisateurs puissent accéder au réseau interne de la M2L. Les machines seront fournis aux nouveau utilisateurs et configurés par la M2L&#xA;Emoji Support The emojify function can be called directly in templates or Inline Shortcodes.&#xA;To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.</description>
+    </item>
+  </channel>
+</rss>
